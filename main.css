@@ -1,0 +1,27 @@
+.mail_color{
+    background-color: #FF9B00;
+}
+
+.bg1{
+    background-color: #25274D;
+}
+.bg2{
+    background-color: white;
+}
+.btn{
+    background-color: #25274D;
+}
+.radius{
+    border-radius: 7px 0px 0px 7px;
+}
+.radius{
+    border-radius: 0px 7px 7px 0px;
+}
+.col-md-4{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.h1 {
+    padding-top: 20px;
+}
