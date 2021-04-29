@@ -12,16 +12,13 @@
     background-color: #25274D;
 }
 .radius{
-    border-radius: 7px 0px 0px 7px;
+    border-radius: 7px 7px 7px 7px;
 }
-.radius{
+.radius1{
     border-radius: 0px 7px 7px 0px;
 }
-.col-md-4{
+.col-md-3{
     padding-left: 30px;
-    padding-right: 30px;
+    padding-right: 70px;
     padding-top: 30px;
-}
-.h1 {
-    padding-top: 20px;
 }
